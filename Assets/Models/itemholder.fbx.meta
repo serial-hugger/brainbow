@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 7213eafe2acc29d4ab6b335ef1cddfde
+timeCreated: 1463113496
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ItemHolderBox
+    100004: ItemLeft
+    100006: ItemRight
+    100008: LeftButton1
+    100010: LeftButton2
+    100012: LeftButton3
+    100014: LeftButton4
+    100016: Plane
+    100018: RightButton1
+    100020: RightButton2
+    100022: RightButton3
+    100024: RightButton4
+    100026: TextScreen1
+    100028: TextScreen2
+    100030: TextScreen3
+    100032: TextScreen4
+    400000: //RootNode
+    400002: ItemHolderBox
+    400004: ItemLeft
+    400006: ItemRight
+    400008: LeftButton1
+    400010: LeftButton2
+    400012: LeftButton3
+    400014: LeftButton4
+    400016: Plane
+    400018: RightButton1
+    400020: RightButton2
+    400022: RightButton3
+    400024: RightButton4
+    400026: TextScreen1
+    400028: TextScreen2
+    400030: TextScreen3
+    400032: TextScreen4
+    2300000: ItemHolderBox
+    2300002: ItemLeft
+    2300004: ItemRight
+    2300006: LeftButton1
+    2300008: LeftButton2
+    2300010: LeftButton3
+    2300012: LeftButton4
+    2300014: Plane
+    2300016: RightButton1
+    2300018: RightButton2
+    2300020: RightButton3
+    2300022: RightButton4
+    2300024: TextScreen1
+    2300026: TextScreen2
+    2300028: TextScreen3
+    2300030: TextScreen4
+    3300000: ItemHolderBox
+    3300002: ItemLeft
+    3300004: ItemRight
+    3300006: LeftButton1
+    3300008: LeftButton2
+    3300010: LeftButton3
+    3300012: LeftButton4
+    3300014: Plane
+    3300016: RightButton1
+    3300018: RightButton2
+    3300020: RightButton3
+    3300022: RightButton4
+    3300024: TextScreen1
+    3300026: TextScreen2
+    3300028: TextScreen3
+    3300030: TextScreen4
+    4300000: TextScreen4
+    4300002: TextScreen3
+    4300004: TextScreen2
+    4300006: Plane
+    4300008: ItemHolderBox
+    4300010: LeftButton1
+    4300012: RightButton1
+    4300014: LeftButton2
+    4300016: RightButton2
+    4300018: LeftButton3
+    4300020: RightButton3
+    4300022: LeftButton4
+    4300024: RightButton4
+    4300026: ItemRight
+    4300028: ItemLeft
+    4300030: TextScreen1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
